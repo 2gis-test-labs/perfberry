@@ -1,0 +1,11 @@
+{
+	"title": "Perfberry",
+	"server": {
+		"port": 5000
+	},
+	"logger":{
+		"level": 60
+	},
+	"apiEndpoint": "https://perfberry-api.2gis.ru",
+	"dateTimeFormat": "MMM D, YYYY HH:mm"
+}
